@@ -238,7 +238,7 @@ The complete list of competitive engagements across **Sherlock**, **Code4rena**,
 I am available for **private security reviews and protocol audits**. If you are building in DeFi, account abstraction, or cross-chain infrastructure and want a thorough, adversarial review before mainnet, let's talk.
 
 - 🐦 **Twitter/X:** [@0xSmartContract](https://twitter.com/0xSmartContract)
-- 💬 **Discord:** `0xSmartContract`
+- 💬 **Discord:** [0xSmartContract](https://discord.com/users/728472162813607946)
 - 🐙 **GitHub:** [@0xSmartContract](https://github.com/0xSmartContract)
 - 📊 **Sherlock:** [audits.sherlock.xyz/watson/0xsmartcontract](https://audits.sherlock.xyz/watson/0xsmartcontract)
 - 🦅 **CodeHawks:** [profiles.cyfrin.io/u/0xsmartcontract](https://profiles.cyfrin.io/u/0xsmartcontract)
