@@ -233,7 +233,7 @@ The complete list of competitive engagements across **Sherlock**, **Code4rena**,
 
 ---
 
-## 🤝 Engagement
+## 🤝 Contact
 
 I am available for **private security reviews and protocol audits**. If you are building in DeFi, account abstraction, or cross-chain infrastructure and want a thorough, adversarial review before mainnet, let's talk.
 
@@ -245,4 +245,4 @@ I am available for **private security reviews and protocol audits**. If you are 
 
 ---
 
-<p align="center"><i>Security is not a feature you add — it's an assumption you continually test.</i></p>
+<p align="center"><i>> Those who want it most, win. Want more..</i></p>
