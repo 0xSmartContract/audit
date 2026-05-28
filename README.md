@@ -95,7 +95,7 @@ Representative critical-impact vulnerabilities discovered across engagements:
 
 ---
 
-## ⚖️ Judging Engagements (Sherlock)
+## ⚖️ Judging  (Sherlock)
 
 Selected to evaluate, triage, and rule on competitive audit submissions — including a **Lead Judge** appointment with a performance bonus.
 
@@ -105,8 +105,6 @@ Selected to evaluate, triage, and rule on competitive audit submissions — incl
 | 2024-10 | MakerDAO | Judge | — | $207 |
 | 2024-08 | MagicSea | Judge | 🥇 1st | $538 |
 | 2024-08 | MagicSea | **Lead Judge** | +10% Bonus | $1,479 |
-
-> *Judging awards are paid in USDC. The Lead Judge bonus reflects additional responsibility for final triage and ruling quality.*
 
 ---
 
