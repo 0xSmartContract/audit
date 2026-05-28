@@ -177,7 +177,7 @@ The complete list of competitive engagements across **Sherlock**, **Code4rena**,
 | 2023-02 | Ethos Reserve | Code4rena | $764.26 |
 | 2023-02 | Fair Funding (Alchemix & Unstoppable) | Sherlock | $107.05 |
 | 2023-01 | Popcorn | Code4rena | $384.79 |
-| 2023-01 | Canto Identity Protocol | Code4rena | ₵915.39 |
+| 2023-01 | Canto Identity Protocol | Code4rena | $915.39 |
 | 2023-01 | Numoen | Code4rena | $1,042.54 |
 | 2023-01 | RabbitHole Quest Protocol | Code4rena | $230.95 |
 | 2023-01 | Drips Protocol | Code4rena | $254.80 |
@@ -235,14 +235,6 @@ The complete list of competitive engagements across **Sherlock**, **Code4rena**,
 | 2022-08 | Rigor Protocol | Code4rena | $62.38 |
 | 2022-07 | Axelar Network v2 | Code4rena | $56.13 |
 | 2022-07 | Golom | Code4rena | $129.83 |
-
-> 💱 *Awards marked ₵ were paid in CANTO; all others in USDC.*
-
-**Notable Beedle (CodeHawks) findings:**
-- 🔴 Incompatibility with deflationary / fee-on-transfer tokens.
-- 🔴 Missing reentrancy guards across multiple `Lender.sol` functions.
-- 🟡 `block.timestamp` deadlines inviting MEV.
-- 🟡 Hardcoded Uniswap `3000` fee tier ignoring multi-tier pools.
 
 ---
 
