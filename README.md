@@ -42,10 +42,7 @@ Beyond finding bugs, I also serve as a **Lead Judge on Sherlock**, evaluating an
 | ⚖️ **Judging Engagements** | **4** (incl. Lead Judge) |
 | 🥇 **Podium Finishes (Top 3)** | **3** |
 | 🔟 **Top-10 Finishes** | **34** |
-| 📈 **Top-25 Finishes** | **78** |
-| ✅ **Top-50 Finishes** | **104** |
 
-> *Figures aggregate verified results across Sherlock, Code4rena, and CodeHawks (Cyfrin). Monetary awards reflect on-platform payouts.*
 
 ---
 
