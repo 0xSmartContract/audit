@@ -31,7 +31,7 @@ Beyond finding bugs, I also serve as a **Lead Judge on Sherlock**, evaluating an
 
 ---
 
-## 📊 Track Record at a Glance
+## 📊 Audit Summary
 
 | Metric | Value |
 | :--- | :---: |
